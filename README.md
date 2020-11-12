@@ -4,4 +4,4 @@ Homebrew formula for [GoogleTest - Google Testing and Mocking Framework](https:/
 
 ## Usage
 
-    brew install web-eid/gtest/gtest
+    brew install nZac/gtest/gtest
